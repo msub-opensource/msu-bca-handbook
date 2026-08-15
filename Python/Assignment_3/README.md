@@ -1,0 +1,30 @@
+# 🎯 Assignment 3: Expressions, Conditionals & Python Magic
+
+Welcome to Assignment 3! This assignment tests how well you understand the quirky rules of Python — operator priorities, why strings can't be changed directly, short-circuit logic, and how to write clean f-strings. 🪄
+
+Here is what each question is actually doing, explained in simple terms with reference links to dive deeper.
+
+---
+
+## 📚 Question Breakdown & Concepts
+
+| File | Core Concept | The Plain English Hint | Deep Dive Link |
+| :--- | :--- | :--- | :--- |
+| [`q1_predict_output.py`](file:///C:/Users/parth/OneDrive/Documents/school/msub/assignments/copy-paste-university/Python/Assignment_3/q1_predict_output.py) | Operator Precedence & Truthy/Falsy | Tricky expressions! Tests BODMAS rules, `//` (floor div) vs `/` (float div), and short-circuit logic where `and`/`or` return the actual value, not just `True`/`False`. | [Python Docs: Operator Precedence](https://docs.python.org/3/reference/expressions.html#operator-precedence) & [Real Python: Booleans & Truthiness](https://realpython.com/python-boolean/) |
+| [`q2_evaluate_expression.py`](file:///C:/Users/parth/OneDrive/Documents/school/msub/assignments/copy-paste-university/Python/Assignment_3/q2_evaluate_expression.py) | Multi-operator Expression | Calculates `(a + b) * c - a // b + a % c`. Parentheses win first, then `*`, `//`, and `%`, followed by `+` and `-`. | [Python Docs: Binary Arithmetic](https://docs.python.org/3/reference/expressions.html#binary-arithmetic-operations) |
+| [`q3_string_immutability.py`](file:///C:/Users/parth/OneDrive/Documents/school/msub/assignments/copy-paste-university/Python/Assignment_3/q3_string_immutability.py) | String Immutability & Slicing | In Python, strings are permanent — you can't mutate individual letters like `name[0] = 'B'`. Instead, you slice `name[1:]` and build a brand-new string. | [Python Tutorial: String Slicing](https://docs.python.org/3/tutorial/introduction.html#text) & [Real Python: Strings & Immutability](https://realpython.com/python-strings/) |
+| [`q4_check_vowel.py`](file:///C:/Users/parth/OneDrive/Documents/school/msub/assignments/copy-paste-university/Python/Assignment_3/q4_check_vowel.py) | Logical `or` in `if` conditions | Uses `or` to check if the entered character matches `'a'`, `'e'`, `'i'`, `'o'`, or `'u'`. If any one condition is true, the whole check passes. | [Python Docs: Boolean `or`](https://docs.python.org/3/library/stdtypes.html#boolean-operations-and-or-not) |
+| [`q5_biggest_of_two_numbers.py`](file:///C:/Users/parth/OneDrive/Documents/school/msub/assignments/copy-paste-university/Python/Assignment_3/q5_biggest_of_two_numbers.py) | Simple Comparison (`>`) | Reads two integers and determines the larger one using a straightforward `if / else`. | [W3Schools: If ... Else Conditions](https://www.w3schools.com/python/python_conditions.asp) |
+| [`q6_biggest_of_three_numbers.py`](file:///C:/Users/parth/OneDrive/Documents/school/msub/assignments/copy-paste-university/Python/Assignment_3/q6_biggest_of_three_numbers.py) | Finding Maximum with `and` | Evaluates which of the 3 numbers is the greatest using `if`, `elif`, and `else`. | [Programiz: Python if...elif...else](https://www.programiz.com/python-programming/if-elif-else) |
+| [`q7_calculate_grade.py`](file:///C:/Users/parth/OneDrive/Documents/school/msub/assignments/copy-paste-university/Python/Assignment_3/q7_calculate_grade.py) | Multi-level Grade Ladder | Takes marks for 5 subjects, calculates percentage, and maps it to letter grades (A, B, C, D, E, F) using an `if-elif` chain. | [Real Python: Conditional Logic](https://realpython.com/python-conditional-statements/) |
+| [`q8_voting_eligibility.py`](file:///C:/Users/parth/OneDrive/Documents/school/msub/assignments/copy-paste-university/Python/Assignment_3/q8_voting_eligibility.py) | Relational Operator (`>=`) | Compares input age against `18` to check if a user is legally eligible to vote. | [Python Docs: Comparisons](https://docs.python.org/3/library/stdtypes.html#comparisons) |
+| [`q9_odd_or_even.py`](file:///C:/Users/parth/OneDrive/Documents/school/msub/assignments/copy-paste-university/Python/Assignment_3/q9_odd_or_even.py) | Modulo Parity Check (`% 2`) | If `number % 2 == 0`, the remainder is zero, meaning the number is evenly divisible (Even). Otherwise, it's Odd. | [Real Python: The Python Modulo Operator](https://realpython.com/python-modulo-operator/) |
+| [`q10_name_and_age_fstring.py`](file:///C:/Users/parth/OneDrive/Documents/school/msub/assignments/copy-paste-university/Python/Assignment_3/q10_name_and_age_fstring.py) | Modern f-strings | The cleanest way to plug variables inside text: `f"My name is {name} and I am {age} years old."` without annoying `+` commas or type conversion. | [Python Docs: Formatted String Literals (f-strings)](https://docs.python.org/3/tutorial/inputoutput.html#formatted-string-literals) |
+| [`q11_area_of_rectangle.py`](file:///C:/Users/parth/OneDrive/Documents/school/msub/assignments/copy-paste-university/Python/Assignment_3/q11_area_of_rectangle.py) | Float Input & f-string Output | Multiplies length and width as decimals, then displays the resulting area using f-string formatting. | [Real Python: Python f-Strings Guide](https://realpython.com/python-f-strings/) |
+| [`q12_time_to_seconds.py`](file:///C:/Users/parth/OneDrive/Documents/school/msub/assignments/copy-paste-university/Python/Assignment_3/q12_time_to_seconds.py) | Time Unit Conversion | Converts hours to seconds ($H \times 3600$) and minutes to seconds ($M \times 60$), then sums everything together. | [W3Schools: Python Casting & Math](https://www.w3schools.com/python/python_casting.asp) |
+
+---
+
+### 💡 Quick Pro-Tip for Newbies
+- **Strings are like permanent markers**: Once created, you cannot change a single character inside them directly. If you try `s[0] = 'X'`, Python will throw a `TypeError`. You always create a new string with the desired changes! 🖋️
+- **f-strings are your best friend**: Instead of writing `print("I am " + str(age) + " years old")`, just write `print(f"I am {age} years old")`. It saves sanity and typing! 🚀
