@@ -1,10 +1,10 @@
-# Python Assignment 2
+# 🔁 Python Assignment 2
 
 String formatting, loops (`for`), and basic conditional statements (`if/elif/else`).
 
-Here is a quick summary of what each question covers.
+Here is a quick summary of what each question covers. 💡
 
-## Questions & Concepts
+## 📌 Questions & Concepts
 
 | File | Topic | What it does | Docs / Link |
 | :--- | :--- | :--- | :--- |
@@ -15,6 +15,6 @@ Here is a quick summary of what each question covers.
 | [q6.py](file:///C:/Users/parth/OneDrive/Documents/school/msub/assignments/copy-paste-university/Python/Assignment_2/q6.py) | `if / elif / else` (2 Numbers) | Compares two numbers to find which one is bigger or if they are equal. | [Python if statement tutorial](https://docs.python.org/3/tutorial/controlflow.html#if-statements) |
 | [q7.py](file:///C:/Users/parth/OneDrive/Documents/school/msub/assignments/copy-paste-university/Python/Assignment_2/q7.py) | `if / elif / else` (3 Numbers) | Finds the biggest among three numbers using logical `and`. | [Python boolean operations](https://docs.python.org/3/library/stdtypes.html#boolean-operations-and-or-not) |
 
-## Quick Note
+## 💡 Quick Note
 
-In Python, `range(1, 5)` only counts up to `4`. If you need to loop up to `n`, make sure to write `range(1, n + 1)`.
+In Python, `range(1, 5)` only counts up to `4`. If you need to loop up to `n`, make sure to write `range(1, n + 1)`. 🎯

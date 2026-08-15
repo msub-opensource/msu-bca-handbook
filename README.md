@@ -1,28 +1,32 @@
-# copy-paste-university
+# 🎓 copy-paste-university
 
-Assignments for Python and IT & Productivity Tools. I already finished them, so putting them here for anyone who needs a reference. Feel free to use them, learn from them, or just use them when you're running out of time.
+![Copy Paste University Cover](assets/cover.png)
 
-## Subjects
+Assignments for Python and IT & Productivity Tools. I already finished them, so putting them here for anyone who needs a reference. Feel free to use them, learn from them, or just use them when you're running out of time. 👍
 
-- **Python** (Assignments 1, 2, and 3 with question notes)
-- **IT & Productivity Tools** (Assignment 2 added, others coming soon)
+## 📚 Subjects
 
-## Updates & Notes
+- 🐍 **Python** (Assignments 1, 2, and 3 with question notes)
+- 💻 **IT & Productivity Tools** (Assignment 2 added, others coming soon)
 
-### IT & Productivity Tools
-- **Assignment 1:** Don't have this one with me, sorry.
-- **Assignment 2:** Added in `IT & Productivity Tools/Assignment_2/`.
-- **Assignments 3 to 6:** Working on them, will upload soon.
+## 📢 Updates & Notes
 
-### Important Warning (Read this once)
-- This is a **public repo**. Anyone can see it, including professors and TAs.
-- Do **not** submit the exact same code or files word-for-word. At least change variable names, comments, and logic flow so you don't get caught in viva.
-- Test the code once on your own machine before submitting.
+### 💻 IT & Productivity Tools
+- **Assignment 1:** Don't have this one with me, sorry. 🤷‍♂️
+- **Assignment 2:** Added in `IT & Productivity Tools/Assignment_2/` ✅
+- **Assignments 3 to 6:** Working on them, will upload soon ⏳
 
-## Folder Structure
+### ⚠️ Important Warning (Read this once)
+- This is a **public repo**. Anyone can see it, including professors and TAs. 👀
+- Do **not** submit the exact same code or files word-for-word. At least change variable names, comments, and logic flow so you don't get caught in viva. 💀
+- Test the code once on your own machine before submitting. 🚀
+
+## 🗂️ Folder Structure
 
 ```text
 copy-paste-university/
+├── assets/
+│   └── cover.png
 ├── README.md
 ├── AGENT.md
 ├── Python/
@@ -33,6 +37,6 @@ copy-paste-university/
     └── Assignment_2/
 ```
 
-## Disclaimer
+## 💡 Disclaimer
 
-If this repo helps you save time before a deadline, great. Just make sure you understand what the code does so you can answer questions if your professor asks.
+If this repo helps you save time before a deadline, great. Just make sure you understand what the code does so you can answer questions if your professor asks. Good luck! 🫡

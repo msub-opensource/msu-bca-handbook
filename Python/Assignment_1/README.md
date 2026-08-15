@@ -1,10 +1,10 @@
-# Python Assignment 1
+# 🐍 Python Assignment 1
 
 Basic Python setup, printing, input/output, variables, and math operators.
 
-If you want to understand what each program does instead of just copying it, check the quick summary and links below.
+If you want to understand what each program does instead of just copying it, check the quick summary and links below. 💡
 
-## Questions & Concepts
+## 📌 Questions & Concepts
 
 | File | Topic | What it does | Docs / Link |
 | :--- | :--- | :--- | :--- |
@@ -23,6 +23,6 @@ If you want to understand what each program does instead of just copying it, che
 | [q14.py](file:///C:/Users/parth/OneDrive/Documents/school/msub/assignments/copy-paste-university/Python/Assignment_1/q14.py) | Simple Interest | Formula: `(p * r * t) / 100`. | [Programiz Python operators](https://www.programiz.com/python-programming/operators) |
 | [q15.py](file:///C:/Users/parth/OneDrive/Documents/school/msub/assignments/copy-paste-university/Python/Assignment_1/q15.py) | Percentage Calculation | Takes marks of 3 subjects and calculates percentage out of 300. | [W3Schools type casting](https://www.w3schools.com/python/python_casting.asp) |
 
-## Quick Note
+## 💡 Quick Note
 
-When you take input in Python using `input()`, it always comes as text (string). If you want to do math with it, remember to wrap it inside `int()` or `float()`.
+When you take input in Python using `input()`, it always comes as text (string). If you want to do math with it, remember to wrap it inside `int()` or `float()`. 🚀

@@ -1,10 +1,10 @@
-# Python Assignment 3
+# ⚡ Python Assignment 3
 
 Expressions, operator precedence, string immutability, decision making, and f-strings.
 
-Here is a quick summary of what each question is doing.
+Here is a quick summary of what each question is doing. 💡
 
-## Questions & Concepts
+## 📌 Questions & Concepts
 
 | File | Topic | What it does | Docs / Link |
 | :--- | :--- | :--- | :--- |
@@ -21,7 +21,7 @@ Here is a quick summary of what each question is doing.
 | [q11.py](file:///C:/Users/parth/OneDrive/Documents/school/msub/assignments/copy-paste-university/Python/Assignment_3/q11.py) | Area of Rectangle (f-string) | Takes float inputs, calculates area, and formats output with f-strings. | [Real Python f-strings](https://realpython.com/python-f-strings/) |
 | [q12.py](file:///C:/Users/parth/OneDrive/Documents/school/msub/assignments/copy-paste-university/Python/Assignment_3/q12.py) | Time to Seconds | Converts hours, minutes, and seconds into total seconds (`hours * 3600 + minutes * 60 + seconds`). | [W3Schools Python casting](https://www.w3schools.com/python/python_casting.asp) |
 
-## Quick Note
+## 💡 Quick Note
 
 In Python, strings are immutable, meaning you cannot do `name[0] = 'B'`. Instead, you concatenate pieces like `"B" + name[1:]`.
-Also, prefer using f-strings (`f"Hello {name}"`) over string concatenation for cleaner code.
+Also, prefer using f-strings (`f"Hello {name}"`) over string concatenation for cleaner code. 🚀

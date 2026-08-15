@@ -12,6 +12,8 @@ The goal is to keep code clean, easy to read for beginners, and well-organized.
 
 ```text
 copy-paste-university/
+├── assets/
+│   └── cover.png
 ├── README.md
 ├── AGENT.md
 ├── Python/
