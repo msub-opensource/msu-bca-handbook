@@ -1,16 +1,14 @@
 # AGENT.md
 
-Guide for AI agents and assistants working on this repository.
+Notes for assistants working on this repo.
 
-## What is this Repository?
+## What is this repo?
 
-`copy-paste-university` is a public collection of university coursework and lab assignments (primarily for MS University). It contains solved, clean, and ready-to-run practical assignments for subjects like **Python** and **IT & Productivity Tools**.
+`copy-paste-university` is a collection of university coursework and lab assignments (MS University). It contains simple, working solutions for subjects like Python and IT & Productivity Tools.
 
-The goal is to keep assignment solutions straightforward, easy to understand for beginners, and well-organized so students can study or reference them.
+The goal is to keep code clean, easy to read for beginners, and well-organized.
 
----
-
-## Directory Structure
+## Folder Structure
 
 ```text
 copy-paste-university/
@@ -18,37 +16,25 @@ copy-paste-university/
 ├── AGENT.md
 ├── Python/
 │   ├── Assignment_1/
-│   │   ├── q1.py (or q1_<topic>.py)
+│   │   ├── README.md
+│   │   ├── q2.py
 │   │   └── ...
 │   ├── Assignment_2/
-│   │   ├── q1_flowcharts_and_programs.py
+│   │   ├── README.md
+│   │   ├── q2.py
 │   │   └── ...
 │   └── Assignment_3/
-│       ├── q1_predict_output.py
+│       ├── README.md
+│       ├── q1.py
 │       └── ...
 └── IT & Productivity Tools/
-    └── assignments...
+    └── Assignment_2/
 ```
 
----
+## Rules for Code and Files
 
-## Guidelines for Contributing & Maintenance
-
-### 1. Code Style: Keep it Beginner-Friendly
-- **Simplicity first**: Write plain, readable code that looks like genuine student work.
-- **Avoid over-engineering**: Do not use complex one-liners, advanced functional patterns, or unnecessary external packages unless required by the prompt.
-- **Clear logic**: Use standard `input()`, `print()`, basic `if/elif/else`, and simple loops (`for`, `while`).
-- **Short comments**: Include a brief header comment with the question number and description at the top of each file.
-
-### 2. File Naming Conventions
-- Put each assignment in its own folder: `Python/Assignment_<Number>/`.
-- Name script files using the format: `q<number>_<short_topic_name>.py` (e.g., `q5_biggest_of_two_numbers.py`).
-- Keep all questions as separate, standalone runnable scripts.
-
-### 3. Testing & Verification
-- Ensure scripts run without syntax errors on standard Python 3.x.
-- Verify basic input/output examples match the assignment prompt.
-
-### 4. Git Commits
-- Use simple, human-like commit messages (e.g., `Add assignment 3 solutions`, `Update readme with folder structure`).
-- Avoid automated or robotic commit summaries.
+1. **Keep it simple:** Write basic, readable code that matches student level. Avoid fancy one-liners or unnecessary packages.
+2. **File naming:** Use simple names like `q1.py`, `q2.py`, etc., inside each assignment folder (`Python/Assignment_X/`).
+3. **Comments:** Put a short 1-line comment at the top of each script explaining what it does.
+4. **Notes in folders:** Each assignment folder should have a short `README.md` explaining the questions, concepts, and doc links for students who want to understand the topic.
+5. **Commits:** Keep commit messages short and casual (e.g., `fix notes`, `add assignment 3`, `update files`).
