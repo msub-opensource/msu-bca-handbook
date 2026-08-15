@@ -4,7 +4,7 @@
   <img src="assets/cover.png" alt="Copy Paste University" width="800" />
 </p>
 
-Assignments for Python and IT & Productivity Tools for BCA (First Year). I already finished them, so putting them here for anyone who needs a reference. Feel free to use them, learn from them, or just use them when you're running out of time. 👍
+Assignments for Python and IT & Productivity Tools (BCA First Year, MSU). I already finished them, so putting them here for anyone who needs a reference. Feel free to use them, learn from them, or just use them when you're running out of time. 👍
 
 ## 📚 Subjects
 
