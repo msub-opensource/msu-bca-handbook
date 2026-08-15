@@ -13,7 +13,12 @@ Assignments for Python and IT & Productivity Tools (BCA First Year, MSU). I alre
 
 ## 📖 Concept Guides & Learning Resources
 
-Each assignment folder has a `README.md` that breaks down the concepts behind every question, along with direct links to official documentation and tutorials so you can learn the topics thoroughly.
+- **Python:** Each assignment folder has a dedicated `README.md` breaking down concepts for each question with direct documentation links.
+- **Microsoft Word (IT Tools):** 
+  > 💡 **Quick Tip:** Written docs and tutorials teach much faster than lengthy YouTube videos if you can focus. Practice by actually creating documents instead of just passively watching.
+  - [Microsoft Word Official Support & Guides](https://support.microsoft.com/en-us/word)
+  - [GCFGlobal Word Tutorials (Basic to Advanced)](https://edu.gcfglobal.org/en/word/)
+  - [CustomGuide Word Cheat Sheet](https://www.customguide.com/word)
 
 ## 📢 Updates & Notes
 
@@ -40,8 +45,14 @@ copy-paste-university/
 │   ├── Assignment_2/
 │   └── Assignment_3/
 └── IT & Productivity Tools/
+    ├── README.md
     └── Assignment_2/
 ```
+
+## 📬 Doubts & Notes
+
+If you have any doubts, spot an issue, or need notes, feel free to reach out:
+📧 **superdupr43@gmail.com**
 
 ## 💡 Disclaimer
 
