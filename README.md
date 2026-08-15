@@ -1,8 +1,10 @@
 # 🎓 copy-paste-university
 
-![Copy Paste University Cover](assets/cover.png)
+<p align="center">
+  <img src="assets/cover.png" alt="Copy Paste University" width="800" />
+</p>
 
-Assignments for Python and IT & Productivity Tools. I already finished them, so putting them here for anyone who needs a reference. Feel free to use them, learn from them, or just use them when you're running out of time. 👍
+Assignments for Python and IT & Productivity Tools (primarily for **FY BCA** @ MSU, but useful for anyone learning the basics). I already finished them, so putting them here for anyone who needs a reference. Feel free to use them, learn from them, or just use them when you're running out of time. 👍
 
 ## 📚 Subjects
 
