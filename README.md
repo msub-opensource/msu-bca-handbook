@@ -8,8 +8,12 @@ Assignments for Python and IT & Productivity Tools (BCA First Year, MSU). I alre
 
 ## 📚 Subjects
 
-- 🐍 **Python** (Assignments 1, 2, and 3 with question notes)
+- 🐍 **Python** (Assignments 1, 2, and 3)
 - 💻 **IT & Productivity Tools** (Assignment 2 added, others coming soon)
+
+## 📖 Concept Guides & Learning Resources
+
+Each assignment folder has a `README.md` that breaks down the concepts behind every question, along with direct links to official documentation and tutorials so you can learn the topics thoroughly.
 
 ## 📢 Updates & Notes
 
