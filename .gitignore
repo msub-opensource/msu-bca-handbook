@@ -1,0 +1,12 @@
+# Local AI Agent instructions
+AGENT.md
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Serena & IDE config
+.serena/
+.vscode/
+.idea/
