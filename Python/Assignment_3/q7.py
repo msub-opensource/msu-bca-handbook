@@ -8,11 +8,15 @@ math = float(input("Enter Mathematics marks: "))
 computer = float(input("Enter Computer marks: "))
 
 total = physics + chemistry + biology + math + computer
+
+# Each subject is out of 100, so dividing total by 5 gives average marks per subject
+# average marks out of 100 = percentage directly
 percentage = total / 5
 
 print("Total marks =", total)
 print("Percentage =", percentage)
 
+# Check percentage range and assign grade
 if percentage >= 90:
     print("Grade A")
 elif percentage >= 80:
