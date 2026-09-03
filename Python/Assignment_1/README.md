@@ -6,6 +6,8 @@ If you want to understand what each program does instead of just copying it, che
 
 ## 📌 Questions & Concepts
 
+> ℹ️ **Note on Q1:** Question 1 was Python installation / environment verification with no separate code script, so programs start from `q2.py`.
+
 | File | Topic | What it does | Docs / Link |
 | :--- | :--- | :--- | :--- |
 | [q2.py](file:///C:/Users/parth/OneDrive/Documents/school/msub/assignments/copy-paste-university/Python/Assignment_1/q2.py) | `print()` | Prints basic text to the screen. | [Python print() doc](https://docs.python.org/3/library/functions.html#print) |

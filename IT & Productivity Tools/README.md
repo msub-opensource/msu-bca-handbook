@@ -1,14 +1,16 @@
 # 💻 IT & Productivity Tools
 
-Coursework and practical assignments for IT & Productivity Tools (Word, Excel, PowerPoint, etc.).
+Coursework and practical assignments for IT & Productivity Tools (Microsoft Word document formatting and productivity).
 
-## 📁 Assignments
+## 📁 Assignments & Topics
 
-- **Assignment 1:** Not available.
-- **Assignment 2:** [`assignment_2.docx`](./assignment_2.docx)
-- **Assignment 3:** [`assignment_3.docx`](./assignment_3.docx)
-- **Assignment 4:** [`assignment_4.docx`](./assignment_4.docx)
-- **Assignments 5 and 6:** Uploading soon.
+| Assignment | File | Main Topics / Tasks Covered | Status |
+| :--- | :--- | :--- | :---: |
+| **Assignment 1** | — | Invoice & Table Formatting *(Not available)* | ⏳ |
+| **Assignment 2** | [`assignment_2.docx`](./assignment_2.docx) | Text styling, paragraph alignment, tab spacing, and basic tables | ✅ |
+| **Assignment 3** | [`assignment_3.docx`](./assignment_3.docx) | Multi-column newspaper layout with image, Book Index with dot leaders, Math Equation editor (`OMath`), and Bibliography with hanging indents | ✅ |
+| **Assignment 4** | [`assignment_4.docx`](./assignment_4.docx) | Multi-part document formatting, table designs, certificates & structured layouts | ✅ |
+| **Assignments 5 & 6** | — | Advanced Word formatting and references | ⏳ |
 
 ## 📖 Best Resources to Learn Microsoft Word (Basic to Advanced)
 

@@ -6,6 +6,8 @@ Here is a quick summary of what each question covers. 💡
 
 ## 📌 Questions & Concepts
 
+> ℹ️ **Note on Q1:** Question 1 consisted of Flowgorithm (flowchart) practice subquestions for classroom practice with no Python code files required, so code programs start from `q2.py`.
+
 | File | Topic | What it does | Docs / Link |
 | :--- | :--- | :--- | :--- |
 | [q2.py](file:///C:/Users/parth/OneDrive/Documents/school/msub/assignments/copy-paste-university/Python/Assignment_2/q2.py) | String Repetition | Uses `"\n" * 100` to quickly print 100 blank lines. | [Python sequence repetition](https://docs.python.org/3/library/stdtypes.html#common-sequence-operations) |

@@ -23,16 +23,18 @@ Assignments for Python and IT & Productivity Tools (BCA First Year, MSU). I alre
 ## 📢 Updates & Notes
 
 ### 💻 IT & Productivity Tools
-- **Assignment 1:** Don't have this one with me, sorry. 🤷‍♂️
-- **Assignment 2:** Added `assignment_2.docx` ✅
-- **Assignment 3:** Added `assignment_3.docx` ✅
-- **Assignment 4:** Added `assignment_4.docx` ✅
+- **Assignment 1:** Invoice / Table formatting *(Not available)* 🤷‍♂️
+- **Assignment 2:** Added `assignment_2.docx` (Styling & Tables) ✅
+- **Assignment 3:** Added `assignment_3.docx` (Newspaper, Index, Math Equation & Bibliography) ✅
+- **Assignment 4:** Added `assignment_4.docx` (Multi-part formatting & Layouts) ✅
 - **Assignments 5 and 6:** Working on them, will upload soon ⏳
 
 ### ⚠️ Important Warning (Read this once)
 - This is a **public repo**. Anyone can see it, including professors and TAs. 👀
-- Do **not** submit the exact same code or files word-for-word. At least change variable names, comments, and logic flow so you don't get caught in viva. 💀
-- Test the code once on your own machine before submitting. 🚀
+- Do **not** submit the exact same code or files word-for-word:
+  - **Python:** At least change variable names, comments, and structure so you don't get caught in viva. 💀
+  - **Word (.docx):** Change sample names, roll numbers, or minor details before submitting. ✍️
+- Test the code and open the documents once on your own machine before submitting. 🚀
 
 ## 🗂️ Folder Structure
 
