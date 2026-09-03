@@ -9,7 +9,7 @@ Assignments for Python and IT & Productivity Tools (BCA First Year, MSU). I alre
 ## 📚 Subjects
 
 - 🐍 **Python** (Assignments 1, 2, 3, and 4)
-- 💻 **IT & Productivity Tools** (Assignment 2 added, others coming soon)
+- 💻 **IT & Productivity Tools** (Assignments 2, 3, and 4 added, others coming soon)
 
 ## 📖 Concept Guides & Learning Resources
 
@@ -24,8 +24,10 @@ Assignments for Python and IT & Productivity Tools (BCA First Year, MSU). I alre
 
 ### 💻 IT & Productivity Tools
 - **Assignment 1:** Don't have this one with me, sorry. 🤷‍♂️
-- **Assignment 2:** Added in `IT & Productivity Tools/Assignment_2/` ✅
-- **Assignments 3 to 6:** Working on them, will upload soon ⏳
+- **Assignment 2:** Added `assignment_2.docx` ✅
+- **Assignment 3:** Added `assignment_3.docx` ✅
+- **Assignment 4:** Added `assignment_4.docx` ✅
+- **Assignments 5 and 6:** Working on them, will upload soon ⏳
 
 ### ⚠️ Important Warning (Read this once)
 - This is a **public repo**. Anyone can see it, including professors and TAs. 👀
@@ -46,7 +48,9 @@ copy-paste-university/
 │   └── Assignment_4/
 └── IT & Productivity Tools/
     ├── README.md
-    └── Assignment_2/
+    ├── assignment_2.docx
+    ├── assignment_3.docx
+    └── assignment_4.docx
 ```
 
 ## 📬 Doubts & Notes

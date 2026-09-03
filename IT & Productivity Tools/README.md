@@ -5,8 +5,10 @@ Coursework and practical assignments for IT & Productivity Tools (Word, Excel, P
 ## 📁 Assignments
 
 - **Assignment 1:** Not available.
-- **Assignment 2:** [`assignment_2.docx`](file:///C:/Users/parth/OneDrive/Documents/school/msub/assignments/copy-paste-university/IT%20&%20Productivity%20Tools/Assignment_2/assignment_2.docx)
-- **Assignments 3 to 6:** Uploading soon.
+- **Assignment 2:** [`assignment_2.docx`](./assignment_2.docx)
+- **Assignment 3:** [`assignment_3.docx`](./assignment_3.docx)
+- **Assignment 4:** [`assignment_4.docx`](./assignment_4.docx)
+- **Assignments 5 and 6:** Uploading soon.
 
 ## 📖 Best Resources to Learn Microsoft Word (Basic to Advanced)
 
