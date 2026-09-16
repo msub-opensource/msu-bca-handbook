@@ -50,6 +50,7 @@ msu-bca-handbook/
 ├── assets/
 │   └── cover.png
 ├── README.md
+├── LICENSE
 ├── Python/
 │   ├── Assignment_1/
 │   │   ├── README.md
