@@ -1,9 +1,9 @@
-# Question 5: Check if character is Vowel or Consonant
+# Question 5: Check whether a character is Vowel or not
 
 ch = input("Enter a letter: ")
 
-# Check if the letter is in Vowels list (aeiouAEIOU)
-if ch in 'aeiouAEIOU':
+# Check if the letter is a vowel (aeiouAEIOU)
+if ch in "aeiouAEIOU":
     print(ch, "is a Vowel.")
 else:
-    print(ch, "is a Consonant.")
+    print(ch, "is not a Vowel.")

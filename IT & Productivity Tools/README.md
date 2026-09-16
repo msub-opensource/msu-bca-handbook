@@ -6,10 +6,10 @@ Coursework and practical assignments for IT & Productivity Tools (Microsoft Word
 
 | Assignment | File | Main Topics / Tasks Covered | Status |
 | :--- | :--- | :--- | :---: |
-| **Assignment 1** | — | Invoice & Table Formatting *(Not available)* | ⏳ |
-| **Assignment 2** | [`assignment_2.docx`](./assignment_2.docx) | Text styling, paragraph alignment, tab spacing, and basic tables | ✅ |
+| **Assignment 1** | — | *(Not available currently — will be updated later)* | ⏳ |
+| **Assignment 2** | [`assignment_2.docx`](./assignment_2.docx) | Invoice & Table formatting (TechWave Solutions Invoice) | ✅ |
 | **Assignment 3** | [`assignment_3.docx`](./assignment_3.docx) | Multi-column newspaper layout with image, Book Index with dot leaders, Math Equation editor (`OMath`), and Bibliography with hanging indents | ✅ |
-| **Assignment 4** | [`assignment_4.docx`](./assignment_4.docx) | Multi-part document formatting, table designs, certificates & structured layouts | ✅ |
+| **Assignment 4** | [`assignment_4.docx`](./assignment_4.docx) | Document lists & formatting structure | ✅ |
 | **Assignments 5 & 6** | — | Advanced Word formatting and references | ⏳ |
 
 ## 📖 Best Resources to Learn Microsoft Word (Basic to Advanced)
