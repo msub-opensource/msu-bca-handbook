@@ -1,7 +1,7 @@
 # 📘 msu-bca-handbook
 
 <p align="center">
-  <img src="assets/cover.png" alt="MSU BCA Handbook" width="800" />
+  <img src="assets/cover.png" alt="MSU BCA Handbook" width="100%" />
 </p>
 
 Practical lab coursework and reference solutions for **Python** and **IT & Productivity Tools** for BCA First Year (Semester 1) students at **The Maharaja Sayajirao University of Baroda (MSU Baroda)**.
