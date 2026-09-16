@@ -2,8 +2,6 @@
 
 Loops (`for`, `while`), series generation, accumulators, condition checking, number reversal, string traversal, and pattern printing.
 
-> ℹ️ **Lab Sheet Reference:** In the university lab worksheet, this topic is labeled as **"Python Assignment — Lab-3"**. In this repository, it is organized under `Assignment_4` because the Expressions & Decision Making practical set is placed in `Assignment_3`. All 23 questions match the lab sheet exactly.
-
 ---
 
 ## 📋 Official Lab Questions

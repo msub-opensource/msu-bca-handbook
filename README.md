@@ -18,7 +18,7 @@ Designed as an open-source student handbook to understand core programming conce
   - **Assignment 1:** Python setup, I/O, variables, data types, arithmetic operators
   - **Assignment 2:** Flowcharts, repetition, escape sequences, basic conditionals
   - **Assignment 3:** Operator precedence, string immutability, grading, f-strings
-  - **Assignment 4:** Loops (`for`, `while`), series, accumulator logic, patterns *(Labeled as "Lab-3" on MSU question sheet)*
+  - **Assignment 4:** Loops (`for`, `while`), series, accumulator logic, patterns
   - **Assignment 5:** String indexing/slicing, list algorithms, searching, swapping
 - 💻 **IT & Productivity Tools** (MS Office & Lab Practical Utilities)
   - **Assignment 1:** *(Not available currently — will be updated later)* ⏳
