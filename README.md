@@ -14,14 +14,15 @@ Designed as an open-source student handbook to understand core programming conce
 
 ## 📚 Subjects
 
-- 🐍 **Python** (Assignments 1, 2, 3, 4, and 5)
+- 🐍 **Python** (Assignments 1, 2, 3, 4, 5, and 6)
   - **Assignment 1:** Python setup, I/O, variables, data types, arithmetic operators
   - **Assignment 2:** Flowcharts, repetition, escape sequences, basic conditionals
   - **Assignment 3:** Operator precedence, string immutability, grading, f-strings
   - **Assignment 4:** Loops (`for`, `while`), series, accumulator logic, patterns
   - **Assignment 5:** String indexing/slicing, list algorithms, searching, swapping
+  - **Assignment 6:** Advanced list algorithms, list comprehensions, tuple operations
 - 💻 **IT & Productivity Tools** (MS Office & Lab Practical Utilities)
-  - **Assignment 1:** *(Not available currently — will be updated later)* ⏳
+  - **Assignment 1:** Added `assignment_1.docx` (MSU Baroda Internship Report Title Page) ✅
   - **Assignment 2:** Added `assignment_2.docx` (Invoice & Table formatting) ✅
   - **Assignment 3:** Added `assignment_3.docx` (Newspaper multi-column, book index, math equation editor & bibliography) ✅
   - **Assignment 4:** Added `assignment_4.docx` (Document lists & formatting structure) ✅
@@ -64,12 +65,16 @@ msu-bca-handbook/
 │   ├── Assignment_4/
 │   │   ├── README.md
 │   │   └── q1.py ... q23.py
-│   └── Assignment_5/
+│   ├── Assignment_5/
+│   │   ├── README.md
+│   │   ├── q1.py ... q3.py
+│   │   └── q4_1.py ... q4_10.py
+│   └── Assignment_6/
 │       ├── README.md
-│       ├── q1.py ... q3.py
-│       └── q4_1.py ... q4_10.py
+│       └── q1.py ... q23.py
 └── IT & Productivity Tools/
     ├── README.md
+    ├── assignment_1.docx
     ├── assignment_2.docx
     ├── assignment_3.docx
     └── assignment_4.docx

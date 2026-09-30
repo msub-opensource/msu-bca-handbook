@@ -6,7 +6,7 @@ Coursework and practical assignments for IT & Productivity Tools (Microsoft Word
 
 | Assignment | File | Main Topics / Tasks Covered | Status |
 | :--- | :--- | :--- | :---: |
-| **Assignment 1** | — | *(Not available currently — will be updated later)* | ⏳ |
+| **Assignment 1** | [`assignment_1.docx`](./assignment_1.docx) | MSU Baroda Faculty of Science Internship Report Cover Page layout | ✅ |
 | **Assignment 2** | [`assignment_2.docx`](./assignment_2.docx) | Invoice & Table formatting (TechWave Solutions Invoice) | ✅ |
 | **Assignment 3** | [`assignment_3.docx`](./assignment_3.docx) | Multi-column newspaper layout with image, Book Index with dot leaders, Math Equation editor (`OMath`), and Bibliography with hanging indents | ✅ |
 | **Assignment 4** | [`assignment_4.docx`](./assignment_4.docx) | Document lists & formatting structure | ✅ |
