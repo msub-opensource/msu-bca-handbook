@@ -37,12 +37,12 @@ Designed as an open-source student handbook to understand core programming conce
   - [GCFGlobal Word Tutorials (Basic to Advanced)](https://edu.gcfglobal.org/en/word/)
   - [CustomGuide Word Cheat Sheet](https://www.customguide.com/word)
 
-## 📢 Updates & Notes
+## 📢 Lab Journal & Submission Tips
 
-### ⚠️ Important Guidelines Before Submitting (Plagiarism & Viva Safety)
-- 🚨 **Comments Warning (Most Common Trap):** Professors catch identical comments faster than identical code! If multiple students submit files with the exact same explanatory comments, it triggers immediate viva scrutiny. **Always rephrase comments into your own simple words or delete detailed explanation lines before printing your lab journal.**
-- 🧠 **Understand Before You Submit:** Walk through the code logic so you are prepared for external examiners in viva. Use the concept tables in each folder's `README.md`.
-- ✍️ **Check Document Properties:** Open `.docx` files on your own PC, update sample roll numbers/names, and ensure document author properties match your own profile.
+### 💡 Guidelines Before Submitting
+- 🧠 **Rewrite Comments in Your Own Words:** Always explain the logic in your own words. External examiners evaluate personal understanding during viva, and your own comments make explanations much smoother.
+- 🎯 **Understand Before You Submit:** Take a minute to walk through the logic using the concept tables in each folder before practical exams so you aren't guessing.
+- ✍️ **Personalize Documents:** If using `.docx` files, update sample names, roll numbers, and dates to match your own before printing your journal.
 
 ## 🗂️ Folder Structure
 
